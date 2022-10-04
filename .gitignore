@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Arduino build files
+src/app/app/build
